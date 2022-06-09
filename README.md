@@ -1,2 +1,2 @@
 # Chess-app
-Chess App (AI Features)*
+Chess App 
